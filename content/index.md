@@ -5,7 +5,38 @@ Dann einen praxisorientierten Überblick zur rechtlichen Lage in Deutschland.
 Dann gibt es eine offene Austauschrunde, wie man urheberrechtlich geschützte
 Daten schön austauschen kann.
 
+Wenn euch Begriffe zu akademisch sind, *fragt nach*. Der Autor hat leider über
+seinem Studium das Gefühl für normale Sprache verloren. Ist kein Thema, das zu
+erklären, die Begriffe sind an manchen Stellen leider wichtig.
+
 ## Politisches Potenzial
+
+### Verschiedene Argumente gegen das Urheberrecht
+
+Der Begriff Raubkopieren ist ein wunderschöner Kampfbegriff, eben weil man
+niemandem etwas wegnimmt. Am Ende des Kopiervorgangs ist stattdessen sogar
+mehr da als vorher. Nirgends funktioniert der Satz "Eigentum ist Diebstahl" so
+gut wie bei intellektuellem Eigentum.
+
+Remix Culture - Sehr viel Kultur wird verhindert, indem Remixen von Kunst
+eingeschränkt wird. Remix Culture spart Arbeitsaufwand, und ist sogar noch gut
+für die Umwelt, da bei der Produktion von Kunst weniger Ressourcen benötigt
+werden.
+
+Im akademischen Bereich ist es oft so, dass man das Urheberrecht an
+wissenschaftlichen Artikeln komplett an Verlage abgibt, die dann Unsummen pro
+Paper verlangen. Das behindert den wissenschaftlichen Fortschritt und hilft
+nicht einmal den Urheber:innen.
+
+Es gibt Zahlen, die belegen, dass Raubkopieren den Verkaufszahlen von Filmen
+und Computerspielen eher nutzt als schadet; vor allem weil Raubkopierer gute
+Spiele auch weiterempfehlen, an Leute die es bezahlen. Bei der Bekämpfung von
+Raubkopien geht viel gute Promo verloren.
+
+Aber um diese Argumente soll es heute nicht gehen, stattdessen hier eine
+systematische Kritik am Urheberrecht aus anarchistischer Perspektive.
+
+### Künstlerische Interessen
 
 Als Künstler habe ich zwei Interessen:
 * ich will, dass so viele Leute wie möglich meine Kunst genießen können
@@ -14,7 +45,7 @@ Als Künstler habe ich zwei Interessen:
 Open Access ermöglicht 1. wie nichts anderes, aber erschwert, Geld mit 
 Kunst zu verdienen.
 
-### Ware, Wert, und Grenzkosten
+#### Künstlerische Arbeit
 
 Künstlerische Arbeit sind 3 verschiedene Sachen:
 * Ausdenken: auf die Idee kommen, komponieren, planen, texten
@@ -23,15 +54,23 @@ Künstlerische Arbeit sind 3 verschiedene Sachen:
 * Reproduzieren: Kopien des Prototyps erstellen, damit mehr Leute es genießen
   können
 
+#### Das Reproduzieren: Ware, Wert, und Grenzkosten
+
 Das Internet ist praktisch eine riesige Kopiermaschine. Immer wenn man etwas
 herunterlädt, kopiert man etwas. Die Kosten vom kopieren sind so niedrig wie
 noch nie zuvor - jeder mit einem Rechner, Speicherplatz, & Zugang zu Internet &
-Daten kann kopieren
+Daten kann kopieren.
 
-Das macht es den Verlagen natürlich schwer, Kunst zu verkaufen - die Kunst
-steht in unfairer Konkurrenz zu den "gestohlenen" Kopien von sich selbst, aber
-auch in schwächerer Konkurrenz mit "gestohlenen" Kopien von anderen
-Kunstwerken, und mit kostenlos zugänglichen Kopien von Kunstwerken.
+Das ist sowohl technisch, ökonomisch, als auch juristisch relevant.
+
+### Interessen der Verlage
+
+Das Reproduzieren ist immer Aufgabe der Verlage gewesen. Die Digitalisierung
+macht es den Verlagen natürlich schwer, Kunst zu verkaufen - die Kunst steht in
+Konkurrenz zu:
+* den "gestohlenen" Kopien von sich selbst, 
+* in schwächerer Konkurrenz mit "gestohlenen" Kopien von anderen Kunstwerken
+* mit kostenlos zugänglichen Kopien von Kunstwerken.
 
 Deswegen haben Verlage ein Interesse daran, kostenlos zugängliche Kunst
 schwerer zugänglich zu machen. Bei "gestohlenen" Kopien von Werken, die sie
@@ -42,45 +81,162 @@ kommerziell vertreiben, haben sie es relativ leicht:
    anderen Kunstwerken.
 
 Deswegen haben Verlage das Urheberrecht historisch erkämpft; es sichert ihre
-Überlebensgrundlage. Nebenbei dient es auch dazu, Künstler/innen zu
-finanzieren; daraus zieht das Urheberrecht seine Legitimation.
+Überlebensgrundlage. 
 
-Das Verhältnis zwischen Verlagen und Künstler/innen ist jedoch selten klar,
-anders als Kapital/Proletarier. Man kann also kaum von einer systematischen
-Ausbeutung im marxistischen Sinne sprechen.
+Das Urheberrecht wurde historisch auch aus Zensurgründen eingeführt, und wird
+immer mal wieder so benutzt. Zum Beispiel bei IFG-Anfragen:
+https://fragdenstaat.de/aktionen/zensurheberrecht-2014/
+
+Nebenbei dient es auch dazu, manche Künstler:innen zu finanzieren; daraus zieht
+das Urheberrecht seine Legitimation. Selbst bei den Protesten gegen das neue
+EU-Urheberrecht gab es Schilder wie "Ja zum Urheberrecht - Nein zur Zensur".
+Die Bewegung war allerdings auch sehr divers und hatte keinerlei einheitliche
+Position.
+
+Das Verhältnis zwischen Verlagen und Künstler:innen ist selten klar, anders als
+Kapital/Proletarier. Es gibt Knebelverträge, aber es gibt auch 50/50-Verträge,
+manchmal bleiben die Rechte an den Kunstwerken bei den Künstler:innen. Oft
+haben die Verlage gar nicht das alleinige Eigentum an den Produktionsmitteln.
+Man kann also kaum von einer systematischen Ausbeutung im marxistischen Sinne
+sprechen.
+
+### Urheberrecht ist Diebstahl
 
 Stattdessen ist das Bild der monopolistischen Extraktion aus dem Mutualismus
 besser geeignet, um zu analysieren, wie sich Verlage das Commons "Kultur"
-aneignen. Mit dem Urheberrecht haben Verlage die staatliche Legitimation,
-Profit aus gewisser Kultur zu extrahieren.
+aneignen.
 
-Die Kritik daran ähnelt der mutualistischen Kritik am Mietrecht; hier werden
-nicht Bedürfnisse befriedigt, sondern Profit extrahiert. Bedürfnisbefriedigung
-passiert, wenn da ein Haus ist, und man halt drin wohnt. Wenn man aber
-versucht, mit Häusern Geld zu verdienen, in denen man keine Zeit hat, darin zu
-wohnen, ist das Extraktion.
+Commons können von Menschen für ihre Bedürfnisse genutzt werden, und zwar für
+alle, für die sie zugänglich sind. Commons müssen auch aufrecht erhalten werden.
+Ein Beispiel sind Bibliotheken, die durch Bücherspenden wachsen, und die idR
+sanktionieren, wenn man ein Buch nicht zurückbringt.
+
+Das typische Beispiel für Commons sind Wiesen, die von ganzen Dörfern 
+landwirtschaftlich genutzt werden. Die waren früher oft Gemeinschaftseigentum,
+wurden aber in der Frühphase der Industrialisierung privatisiert und aufgekauft.
+
+#### Plattformen - das Herrschaftsparadigma des digitalen Zeitalters
+
+Die Soziologie betrachtet fast alles als Institutionen. Plattformen sind jedoch
+ein nützlicher Begriff, um zu analysieren, wie sich Institutionen durch die
+Digitalisierung verändert haben. Die Natur der Herrschaft hat sich dadurch
+verändert.
+
+Ein schönes Beispiel für eine Institution ist ein Staat, eine Firma, ein Verein,
+oder eine Partei. Institutionen sind hierarchisch organisiert, die Ressourcen
+werden zentral verwaltet, und nach unten weitergegeben, um genutzt zu werden.
+Die Regeln, nach denen die Institution handelt, werden oben festgelegt, manchmal
+demokratisch.
+
+Plattformen, in denen wir leben, sind etwa Facebook, Wikipedia, Spotify, eBay, 
+oder auch das Internet an sich. Auf Plattformen werden die Ressourcen dezentral
+verwaltet und genutzt und die Bewohner können frei partizipieren und miteinander
+interagieren, allerdings nur im Rahmen der Regeln: Code is Law. 
+
+Plattformen sind heterarchisch. Bis auf eine Ausnahme - die Admins, die die 
+Regeln festlegen. Demokratische Plattformen gibt es bisher so gut wie nicht.
+(Das könnte übrigens eine zentrale Herrschaftsfrage des 21. Jahrhunderts werden)
+
+#### Commons und Plattformen
+
+Commons sind Plattformen, in dem Sinne dass die Ressourcen dezentral genutzt
+werden können. Der Unterschied ist die Frage des Profits - extrahiert die
+Admins Profit aus der Plattform? Dann kann es kein Commons, kein
+Gemeinschaftseigentum sein.
+
+#### Eigentum ist Diebstahl - die Privatisierung von Commons
+
+Der anarcho-mutualistische Spruch "Eigentum ist Diebstahl" von Proudhon setzt
+hier an; Die Erde ist bereits da und gehörte mal allen. Alle konnten ihre
+Ressourcen nutzen, bevor die ursprüngliche Akkumulation zur Privatisierung
+geführt hat.
+
+Dieses Recht auf Privateigentum wird vom Staat garantiert und aufrechterhalten;
+indem der Staat Nichteigentümer an der Nutzung von Commons hindert, ermöglicht
+er Eigentümern die alleinige Extraktion von Profit aus den Commons.
+
+Der Anarcho-Mutualismus kritisiert, dass das die Befriedigung der Bedürfnis
+behindert. Bedürfnisbefriedigung passiert, wenn da ein Haus ist, und man halt
+drin wohnt. Wenn man aber versucht, mit Häusern Geld zu verdienen, in denen man
+keine Zeit hat, darin zu wohnen, ist das Extraktion von Profit.
+
+Mit dem Urheberrecht haben Verlage die staatliche Legitimation, Profit aus
+gewisser Kultur zu extrahieren.
+
+#### Kunst - Bedürfnisbefriedigung oder Profitautomat?
 
 Mit Liedern ist es genauso: wenn sie zur Befriedigung von Bedürfnissen da sind,
-dann indem man sie spielt, abspielt, kopiert, remixt. Das verdienen von Geld
-mit Kunst, die man behalten kann, ist reine Extraktion.
+dann indem man sie spielt, abspielt, kopiert, remixt. Das Verdienen von Geld
+mit Kunst, die man beinahe kostenlos kopieren kann, ist reine Extraktion.
 
 Wenn Verlage für etwas Geld verlangen, was sie selbst gar nicht nutzen könnten,
-Also zB Musik, ist es Extraktion. Warum sollten sie Geld von einem verlangen,
-obwohl ihnen kein Nachteil entsteht?
+Also zB Musik, ist es Extraktion. 
 
-Im Gegenteil gibt es Zahlen, die belegen, dass Piraterie den Verkaufszahlen von
-Filmen und Computerspielen eher nutzt; vor allem weil Raubkopierer gute Spiele
-auch weiterempfehlen, an Leute die es bezahlen, und bei der Bekämpfung von
-Raubkopien viel gute Promo verloren geht.
+Dadurch, dass man die Arbeit der Verlage, das reproduzieren, heute auch selbst
+erledigen kann, fällt ihre Berechtigung weg. Ihr Hauptarbeit besteht heute
+noch darin, das Marketing für Künstler:innen zu übernehmen, und die Gewinne
+einzutreiben.
 
-Künstler/innen, die ihre Kunst zum free download anbieten, finanzieren sich oft
-über Spenden (z.B. Liberapay, Patreon), Konzerte gegen Spende, oder Nebenjobs.
-Das ist prekär; auf der anderen Seite würden sie über Verkäufe idR auch nicht
-viel verdienen.
+### Urheberrecht abschaffen?
 
-In Kürze: Raubkopieren schafft natürlich nicht den Kapitalismus ab. Aber in
-manchen Bereichen bricht es mit der Logik von Wert und Ware, ähnlich wie
-Ladendiebstahl, aber netter.
+Das Urheberrecht abzuschaffen ist keine weit hergeholte Forderung. Politisch
+mag sie noch weit weg sein, aber Direkte Aktion ermöglicht sie jeden Tag.
+Denn: technisch sind wir hier klar im Vorteil. Während in vielen technischen
+Bereichen die Kontrolle langsam die Überhand bekommt, ist hier die Freiheit
+meistens einen Schritt voraus.
+
+Aber auch als politische Forderung: was würde passieren?
+
+Wenn Verlage keine Gewinne mehr aus dem Verkauf von Datenträgern eintreiben
+können, würden sie zu Marketingagenturen reduziert. Leute würden ihre Jobs
+verlieren, Geschäftsmodelle würden zusammenbrechen, das Kapital hätte eine
+lukrative Verwertungsmethode weniger.
+
+Abmahnanwält:innen müssten die Leute auf anderen Rechtsgebieten ausnutzen.
+
+#### Und die Künstler:innen?
+
+Die größte Sorge ist natürlich, wie sich Künstler:innen in Zukunft finanzieren
+würden.
+
+Viel Mainstream-Musik würde sich nicht mehr rechnen; die Charts wären bald
+ausgestorben. Untergrund-Musik, Hobby-Musik, etc. würden die dominante Form von
+Musikkonsum werden. Es können schon heute nur ein Bruchteil aller
+Künstler:innen vom Verkauf von Kopien leben.
+
+Man kann viel daran sehen, wie sich Künstler:innen heute schon finanzieren:
+
+Künstler:innen, die ihre Kunst zum free download anbieten, finanzieren sich oft
+über Spenden (z.B. Liberapay, Patreon), Konzerte gegen Spende/Crowdfunding,
+Kunstunterricht, oder Nebenjobs. Das ist prekär; auf der anderen Seite würden
+sie über Verkäufe idR auch nicht viel verdienen.
+
+Bemerkenswert ist, dass nicht allzu viele Künstler:innen am Urheberrecht
+hängen. Im Kampf um das neue EU-Urheberrecht haben nur wenige Künstler:innen
+versucht, den Diskurs zu beeinflussen. Die GEMA hat ein paar mit an Bord
+gekriegt, aber sie hatten nur wenig Einfluss auf die öffentliche Debatte.
+
+Ich habe es satt, bei allen politischen Forderungen erst darauf warten zu
+müssen, bis ein BGE eingeführt wird. BGE + kein Urheberrecht ist ein schöne
+Utopie - es wird aber nicht beides gleichzeitig kommen.
+
+Stattdessen würden ziemlich noch mehr Künstler:innen wohl bald zu lautstarken
+Verfechtern eines BGE werden. Klingt doch gut.
+
+### Raubkopieren als Aktionsform
+
+Raubkopieren als Direkte Aktion schafft natürlich nicht den Kapitalismus ab.
+Aber in manchen Bereichen bricht es mit der Logik von Wert und Ware. Es gibt
+auch viele unpolitische Raubkopierer - ungenutztes Agitationspotenzial.
+
+Raubkopieren ist auch ein schönes Mittel, um klassistische Privilegien
+abzubauen. Für Leute, die sich keine Kultur leisten können, ist es oft die
+einzige Möglichkeit der Teilhabe. Allein deswegen sollten wir es fördern.
+
+Ähnlich wie Ladendiebstahl, aber netter:
+* Bei Raubkopieren nimmt man niemand etwas weg - man schafft eher etwas neues.
+* Es ist weniger riskant.
+* Die Vermittlung funktioniert besser.
 
 ## Rechtslage
 
@@ -113,6 +269,18 @@ IP-Adresse bei Torrents nicht automatisch verschleiert wird.
   sehr viel langsamer macht
 * Ein VPN ist da die bessere Wahl und sollte ausreichen, um euch zu schützen.
 
+### CD Ripping
+
+Legal erworbene Datenträger dürfen im einzelnen kopiert werden. Diese Kopien
+dürfen an Freunde & Familie weitergegeben werden.
+
+Wirksamer Kopierschutz darf nicht umgangen werden: ist verboten, aber nicht
+strafbar. Schadensersatz (Zivilrecht) kann aber gefordert werden. 
+
+Allerdings darf nur wirksamer Kopierschutz nicht umgangen werden; manche sagen,
+dass sich ein Kopierschutz als unwirksam erweist, sobald er umgangen wird. lol. 
+ist leider nicht allgemein anerkannt, glaube ich.
+
 ### Zur Inspiration: eine mögliche Verleumdungsklage
 
 ```
@@ -125,21 +293,10 @@ Straftat handelt, ist die Staatsanwaltschaft verpflichtet, jeder dieser
 Anzeigen nachzugehen. 
 ```
 
-### CD Ripping
-
-Legal erworbene Datenträger dürfen im einzelnen kopiert werden.  Diese Kopien
-dürfen an Freunde & Familie weitergegeben werden.
-
-Wirksamer Kopierschutz darf nicht umgangen werden: ist verboten, aber nicht
-strafbar. Schadensersatz (Zivilrecht) kann aber gefordert werden. 
-
-Allerdings darf nur wirksamer Kopierschutz nicht umgangen werden; manche sagen,
-dass sich ein Kopierschutz als unwirksam erweist, sobald er umgangen wird. lol. 
-ist leider nicht allgemein anerkannt, glaube ich.
-
 ## Praktische Tipps
 
-Diskussionsrunde
+Wer hat noch gute Links, die wir noch nicht kennen?
+
 * Serien & Filme kann man auf Seiten streamen:
   * kinox.to
   * bs.to
@@ -170,5 +327,4 @@ Diskussionsrunde
 
 # Feedback
 
-politischen Teil etwas komprimieren, und weniger stockend. die Begriffe sind zu
-akademisch.
+die Begriffe sind zu akademisch.

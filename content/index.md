@@ -5,9 +5,9 @@ Dann einen praxisorientierten Überblick zur rechtlichen Lage in Deutschland.
 Dann gibt es eine offene Austauschrunde, wie man urheberrechtlich geschützte
 Daten schön austauschen kann.
 
-Wenn euch Begriffe zu akademisch sind, *fragt nach*. Der Autor hat leider über
-seinem Studium das Gefühl für normale Sprache verloren. Ist kein Thema, das zu
-erklären, die Begriffe sind an manchen Stellen leider wichtig.
+Wenn euch Begriffe zu akademisch sind, *fragt nach*. Der Autor hat leider
+während seinem Studium das Gefühl für normale Sprache verloren. Ist kein Thema,
+das zu erklären, die Begriffe sind an manchen Stellen leider notwendig.
 
 ## Politisches Potenzial
 

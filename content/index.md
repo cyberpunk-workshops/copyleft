@@ -33,8 +33,29 @@ und Computerspielen eher nutzt als schadet; vor allem weil Raubkopierer gute
 Spiele auch weiterempfehlen, an Leute die es bezahlen. Bei der Bekämpfung von
 Raubkopien geht viel gute Promo verloren.
 
-Aber um diese Argumente soll es heute nicht gehen, stattdessen hier eine
-systematische Kritik am Urheberrecht aus anarchistischer Perspektive.
+### Raubkopieren als Aktionsform
+
+Raubkopieren als Direkte Aktion schafft natürlich nicht den Kapitalismus ab.
+Aber in manchen Bereichen bricht es mit der Logik von Wert und Ware. Es gibt
+auch viele unpolitische Raubkopierer - ungenutztes Agitationspotenzial.
+
+Raubkopieren ist auch ein schönes Mittel, um klassistische Privilegien
+abzubauen. Für Leute, die sich keine Kultur leisten können, ist es oft die
+einzige Möglichkeit der Teilhabe. Allein deswegen sollten wir es fördern.
+
+Ähnlich wie Ladendiebstahl, aber netter:
+* Bei Raubkopieren nimmt man niemand etwas weg - man schafft eher etwas neues.
+* Es ist weniger riskant.
+* Die Vermittlung funktioniert besser.
+
+### Eine systematische Kritik
+
+Problem: Selbst bei den Protesten gegen das neue EU-Urheberrecht gab es
+Schilder wie "Ja zum Urheberrecht - Nein zur Zensur".  Die Bewegung war sehr
+breit gefächert und hatte keinerlei einheitliche Position.
+
+Deswegen braucht es eine systematische Kritik am Urheberrecht aus
+anarchistischer Perspektive.
 
 ### Künstlerische Interessen
 
@@ -88,10 +109,7 @@ immer mal wieder so benutzt. Zum Beispiel bei IFG-Anfragen:
 https://fragdenstaat.de/aktionen/zensurheberrecht-2014/
 
 Nebenbei dient es auch dazu, manche Künstler:innen zu finanzieren; daraus zieht
-das Urheberrecht seine Legitimation. Selbst bei den Protesten gegen das neue
-EU-Urheberrecht gab es Schilder wie "Ja zum Urheberrecht - Nein zur Zensur".
-Die Bewegung war allerdings auch sehr divers und hatte keinerlei einheitliche
-Position.
+das Urheberrecht seine Legitimation. 
 
 Das Verhältnis zwischen Verlagen und Künstler:innen ist selten klar, anders als
 Kapital/Proletarier. Es gibt Knebelverträge, aber es gibt auch 50/50-Verträge,
@@ -224,21 +242,6 @@ Utopie - es wird aber nicht beides gleichzeitig kommen.
 
 Stattdessen würden ziemlich noch mehr Künstler:innen wohl bald zu lautstarken
 Verfechtern eines BGE werden. Klingt doch gut.
-
-### Raubkopieren als Aktionsform
-
-Raubkopieren als Direkte Aktion schafft natürlich nicht den Kapitalismus ab.
-Aber in manchen Bereichen bricht es mit der Logik von Wert und Ware. Es gibt
-auch viele unpolitische Raubkopierer - ungenutztes Agitationspotenzial.
-
-Raubkopieren ist auch ein schönes Mittel, um klassistische Privilegien
-abzubauen. Für Leute, die sich keine Kultur leisten können, ist es oft die
-einzige Möglichkeit der Teilhabe. Allein deswegen sollten wir es fördern.
-
-Ähnlich wie Ladendiebstahl, aber netter:
-* Bei Raubkopieren nimmt man niemand etwas weg - man schafft eher etwas neues.
-* Es ist weniger riskant.
-* Die Vermittlung funktioniert besser.
 
 ## Rechtslage
 

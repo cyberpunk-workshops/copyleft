@@ -106,6 +106,8 @@ Stattdessen ist das Bild der monopolistischen Extraktion aus dem Mutualismus
 besser geeignet, um zu analysieren, wie sich Verlage das Commons "Kultur"
 aneignen.
 
+Kultur ist ein Commons, weil...
+
 Commons können von Menschen für ihre Bedürfnisse genutzt werden, und zwar für
 alle, für die sie zugänglich sind. Commons müssen auch aufrecht erhalten werden.
 Ein Beispiel sind Bibliotheken, die durch Bücherspenden wachsen, und die idR

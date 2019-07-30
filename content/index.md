@@ -302,11 +302,11 @@ Wer hat noch gute Links, die wir noch nicht kennen?
 * One-Klick-Hoster:
   * boerse.to: account besorgen, und in der Suche uploads finden. sehr aktive
     Community
-  * Duckduckgo: Albumname rar 
-    * führt zu one-click-hostern wie zippyshare
   * Hoster:
     * share-online.biz
     * uploaded.to
     * newalbumreleases.com
     * plixid.com
+  * Duckduckgo: Albumname rar 
+    * führt zu one-click-hostern wie zippyshare
 
